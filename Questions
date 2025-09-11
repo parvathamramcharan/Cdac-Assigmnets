@@ -1,0 +1,63 @@
+Write a program to print numbers from 10 to 110.
+Write a program to calculate the sum of all numbers from 1 to 100.
+Write a program to print the multiplication table of a given number.
+Write a program to find the factorial of a given number.
+Write a program to check if a given number is prime.
+Write a program to print the Fibonacci series up to a given number of terms.
+Write a program to calculate the sum of digits of a given number.
+Write a program to check if a given number is a palindrome.
+Write a program to find the sum of all odd numbers between 1 and 50
+Write a program to find the sum of all even numbers between 1 and 50
+Write a program to check if a given number is Armstrong.
+Write a program to reverse a given number.
+Write a program to calculate the power of a number using a loop.
+Write a program to find the greatest common divisor (GCD) of two numbers.
+Write a program to check if a given string is a palindrome.
+Write a program to print the ASCII values of all lowercase alphabets.
+Write a program to calculate the average of a list of numbers.
+Write a program to check if a given year is a leap year.
+Write a program to print the first 10 natural numbers in reverse order.
+Write a program to find the sum of the first 50 natural numbers.
+Write a program to print the factorial of numbers from 1 to 10.
+Write a program to check if a given string is a palindrome using a loop.
+Write a program to calculate the sum of the squares of numbers from 1 to 10.
+Write a program to print the even numbers between 1 and 100.
+Write a program to find the sum of all odd numbers between 1 and 50.
+Write a program to check if a given number is a perfect number.
+Write a program to print the ASCII values of all uppercase alphabets.
+Write a program to calculate the product of the digits of a given number.
+Write a program to check if a given number is a strong number.
+Write a program to calculate the sum of the cubes of numbers from 1 to 10.
+Write a program to find the sum of all prime numbers between 1 and 100.
+Write a program to check if a given string is a pangram.
+Write a program to find the factorial of numbers from 1 to 10.
+Write a program to print the odd numbers between 1 and 100.
+Write a program to check if a given number is a perfect square.
+Write a program to find the sum of the digits of a given number until the sum is a single digit.
+37 -45. Write a program to generate the following pattern----pyramids (8-10 patterns - right angle, diamond, hallow diamond, etc.)
+Solve using both else if ladder and switch considering all input validations:
+
+Grading System
+Problem Statement:
+Write a program that takes a student's percentage as input and assigns a grade based on the following criteria:
+90% and above → A
+80% to 89% → B
+70% to 79% → C
+60% to 69% → D
+Below 60% → F
+
+Electricity Bill Calculation
+Problem Statement:
+Write a program that calculates the electricity bill based on the number of units consumed. The charges per unit are:
+Up to 100 units: ₹5 per unit
+101 to 200 units: ₹6 per unit
+201 to 300 units: ₹7 per unit
+Above 300 units: ₹8 per unit
+
+Income Tax Calculation
+Problem Statement:
+Write a program that calculates the income tax payable based on the annual salary:
+Income ≤ ₹2,50,000 → No tax
+₹2,50,001 to ₹5,00,000 → 5% tax
+₹5,00,001 to ₹10,00,000 → 20% tax
+Above ₹10,00,000 → 30% tax
