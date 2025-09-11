@@ -1,0 +1,15 @@
+package aug9;
+
+import java.util.*;
+
+public class ClassProgram1 {
+    public static void main(String[] args) {
+        int a = 97;
+        System.out.println(a + "b"); // 97b
+        System.out.println('a' + 'b'); // 195 //even if a =97 not did
+        System.out.println(a + 'c'); // 196
+        // System.out.println(a+b); //compile error
+        System.out.println('a' + "b"); // ab // char converted to string first
+
+    }
+}
