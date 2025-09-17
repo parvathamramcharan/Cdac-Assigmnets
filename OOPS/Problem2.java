@@ -4,12 +4,12 @@ class Person{
     String name;
     int age;
     String Country;
-    void set(String n,int a,String c){
-        name=n;
-        age=a;
-        Country=c;
+    public void set(String n,int a,String c){
+        this.name=n;
+        this.age=a;
+        this.Country=c;
     }
-    void get(){
+    public void get(){
         System.out.println(name+" "+age+" "+Country+" ");
     }
 
@@ -21,3 +21,4 @@ public class Problem2 {
         p.get();
     }
 }
+
