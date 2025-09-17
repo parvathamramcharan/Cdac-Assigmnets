@@ -6,12 +6,12 @@ class Student{
     private int  rollno;
     private int age;
     private String name;
-    void SetData(int r ,int a , String n){
-        rollno= r;
-        age=a;
-        name = n;
+    public void SetData(int r ,int a , String n){
+        this.rollno= r;
+        this.age=a;
+        this.name = n;
     }
-    void GetData(){
+    public void GetData(){
         System.out.println(rollno+" "+age+" "+name);
     }
 }
@@ -37,3 +37,4 @@ public class Problem1 {
 
     }
 }
+
