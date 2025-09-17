@@ -7,9 +7,9 @@ class Student{
     private int age;
     private String name;
     public void SetData(int r ,int a , String n){
-        this.rollno= r;
-        this.age=a;
-        this.name = n;
+        rollno= r;
+        age=a;
+        name = n;
     }
     public void GetData(){
         System.out.println(rollno+" "+age+" "+name);
@@ -37,4 +37,5 @@ public class Problem1 {
 
     }
 }
+
 
