@@ -30,4 +30,6 @@ public class sample1{
 
 // after in this encapsulation, if all members are public we can direct access members in outside(within main class also)
 
-//if any thing is  private , we cannot access members outside directly
+//if any thing is  private , we cannot access members outside directly like p.name or p.age
+
+//but can access by a public method like p.disp();
