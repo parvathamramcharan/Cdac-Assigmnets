@@ -1,9 +1,9 @@
 //2.Create a class Person with attributes name , age  and country .Implement methods to set and get this attributes .
 //Create an object of this class , set its attributes and print out the details.
 class Person{
-    String name;
-    int age;
-    String Country;
+    private String name;
+    private int age;
+    private String Country;
     public void set(String n,int a,String c){
         this.name=n;
         this.age=a;
@@ -21,4 +21,5 @@ public class Problem2 {
         p.get();
     }
 }
+
 
